@@ -1,0 +1,76 @@
+[
+  {
+    "id": "aebd24c8-47c9-4adb-b644-5decf0adcd07",
+    "filename": "KDL-Complete-Timeline-v2.docx",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "file_path": "uploads\\KDL-Complete-Timeline-v2.docx",
+    "document_type": "unknown",
+    "status": "needs_review",
+    "raw_text": "KRISHA DIAM LIMITED\nB2B Diamond Wholesale Platform \u00b7 www.kdlgia.com\n\nCOMPLETE PROJECT TIMELINE\n8-Month Development Roadmap \u2014 34 Weeks\n\nCustomer Portal \u00b7 Admin Panel \u00b7 Sales Team Panel \u00b7 Inventory \u00b7 Tech Panel\nWITH COMPLETE ROLE-BASED ACCESS CONTROL (RBAC)\n\nDuration: 34 Weeks | Start: April 2025 | Target Handover: November 2025\nPrepared by: Teesha Choksi \u2014 Technical Lead, KDL\nDocument Date: April 14, 2026 | Version 2.0\n\n1. Executive Summary\nThis document outlines the complete 34-week (8-month) development timeline for the KDL B2B Diamond Wholesale Platform \u2014 a comprehensive multi-panel web application serving Krisha Diam Limited\u2019s diamond trading operations across 28+ countries with an inventory of 3,000\u20134,000 GIA-certified diamonds.\n\n\n1.1 Role-Based Access Control (RBAC) Matrix\nEvery page and API endpoint is protected by role. A user can only access pages assigned to their role. The system enforces this at both the frontend (sidebar/routes) and backend (JWT + guard middleware).\n\n\n2. Phase Overview \u2014 8 Months at a Glance\n\n\n3. Detailed Week-by-Week Timeline\n\n\n\n\n\n\nThe Admin Panel is the control center for KDL management. Only SUPER_ADMIN role has full access. Some sub-pages are shared with ACCOUNTANT and INVENTORY_MGR roles.\nFrom 1st may \nAdmin Panel \u2014 Complete Page List (18 pages)\n\n\nAdmin Panel \u2014 Week-by-Week Build Order\n\n\n\nThe Sales Panel is for KDL\u2019s Hong Kong sales team and any future remote sales representatives. SALES_REP sees only their own assigned clients. SALES_MANAGER sees all clients and can manage the team.\nSales Panel \u2014 Complete Page List (14 pages)\n\nSales Panel \u2014 Week-by-Week Build Order",
+    "summary": "KRISHA DIAM LIMITED B2B Diamond Wholesale Platform \u00b7 www.kdlgia.com COMPLETE PROJECT TIMELINE 8-Month Development Roadmap \u2014 34 Weeks Customer Portal \u00b7 Admin Panel \u00b7 Sales Team Panel \u00b7 Inventory \u00b7 Tech Panel WITH COMPLETE ROLE-BASED ACCESS CONTROL (RBAC) Duration: 34 Weeks | Start: April 2025 | Target Handover: November",
+    "confidence_score": 0.3,
+    "fields": [
+      {
+        "name": "document_summary",
+        "value": "KRISHA DIAM LIMITED\nB2B Diamond Wholesale Platform \u00b7 www.kdlgia.com\n\nCOMPLETE PROJECT TIMELINE\n8-Month Development Roadmap \u2014 34 Weeks\n\nCustomer Portal \u00b7 Admin Panel \u00b7 Sales Team Panel \u00b7 Inventory \u00b7 Tech Panel\nWITH COMPLETE ROLE-BASED ACCESS CONTROL (RBAC)\n\nDuration: 34 Weeks | St",
+        "confidence": 0.42,
+        "source": "ai",
+        "approved": false
+      }
+    ],
+    "validation_issues": [
+      {
+        "field": "document_summary",
+        "severity": "low",
+        "message": "Low confidence extraction needs human review."
+      }
+    ],
+    "audit_history": [
+      {
+        "actor": "system",
+        "action": "processed_document",
+        "status": "needs_review",
+        "confidence_score": 0.3
+      }
+    ],
+    "created_at": "2026-05-09T09:32:48.793458",
+    "updated_at": "2026-05-09T09:32:48.849192"
+  },
+  {
+    "id": "4ab854e1-0319-46a7-aaf3-7a2b22c11a91",
+    "filename": "The Truth About First 7 Days Weight Loss.docx",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "file_path": "uploads\\The Truth About First 7 Days Weight Loss.docx",
+    "document_type": "unknown",
+    "status": "needs_review",
+    "raw_text": "The Truth About First 7 Days Weight Loss\nThis is\u00a0not\u00a0all fat loss \u2014 and that is OK. Losing water and glycogen is how your body\u00a0starts\u00a0burning fat in weeks 2-3.\nThe 7-Day Schedule Overview\n\nBefore You Start (Do This Tonight)\nRemove from kitchen (give away or hide):\nBuy these for Week 1:\nVegetables (eat freely):\nSpinach, lettuce, cabbage, cauliflower, broccoli, bhindi, lauki, tori, cucumber, tomato, capsicum, onion\nProtein (eat at every meal):\nEggs (30 eggs for week 1 = 4-5 per day)\nPaneer (500g)\nTofu (500g)\nFats (small amounts):\nGhee, olive oil, avocado (1 per week), almonds, pumpkin seeds\nOther:\nLemon, apple cider vinegar, ginger, garlic, green chillies, coriander, mint\nSpearmint tea, green tea\nNot buying:\nNo rice, no roti, no chana (first 3 days only), no fruit (first 3 days only), no dairy (first 7 days), no grains (first 7 days)\n\nDaily Non-Negotiables (Every Day of Week 1)\n\nDAY 1 (Monday) - Detox Start\nMorning (6:30 AM - 8:30 AM)\nMidday (12:00 PM - 2:00 PM)\nEvening (4:00 PM - 10:30 PM)\nDay 1 Exercise (Strength Training - 25 min)\n\nDAY 2 (Tuesday) - Deep Detox\nMorning\nMidday\nEvening\nDay 2 Exercise (Low Impact Cardio + Core - 20 min)\n\nDAY 3 (Wednesday) - Fat Burning Activates\nMorning\nMidday\nEvening\nDay 3 Exercise (Strength Training - 30 min)\n\nDAY 4 (Thursday) - Continue Momentum\nMorning\nMidday\nEvening\nDay 4 Exercise (Rest Day - Walking Only)\n\nDAY 5 (Friday) - Acceleration\nMorning\nMidday\nEvening\nDay 5 Exercise (Strength Training - 35 min)\n\nDAY 6 (Saturday) - Momentum Continues\nMorning\nMidday\nEvening\nDay 6 Exercise (Long Walk - 45 min)\n\nDAY 7 (Sunday) - Result Day & Reintroduction\nMorning\nMidday\nEvening\nDay 7 Exercise (Strength Training - 35 min)\n\nFull Week 1 Meal Summary (At a Glance)\n\nProhibited Foods for Week 1 (Complete List)\n\nWhat to Drink (Week 1 Only)\n\nThe 15-Minute Walk After Meals (Non-Negotiable)\nThis is the\u00a0single most effective thing\u00a0in this plan for PCOS weight loss.\nYou can do this indoors\u00a0\u2014 walk around your home, up and down stairs, or march in place.\n\nExpected Results Day by Day\nThese are estimates. Your actual numbers may vary. Do not be discouraged if you lose less \u2014 consistency matters more.\n\nHow You Will Feel Each Day\nDays 2-3 are the hardest.\u00a0This is sugar withdrawal. Drink extra water, rest if needed, do not give up.\n\nWhat to Do If...\n\nDay 7 Measurements (Record These)\n\nAfter Day 7: What Next?\n\nYour Day 1 Checklist (Print or Save)\nTonight (Day 0):\nRemove sugar, biscuits, white rice, packaged snacks from kitchen\nBuy: 30 eggs, 500g paneer, 500g tofu, vegetables (spinach, cabbage, broccoli, cauliflower, capsicum, cucumber, tomato, bhindi, lauki)\nBuy: Almonds, pumpkin seeds, avocado (1), lemon, ACV, spearmint tea, green tea\nSet alarm: 6:30 AM wake, 10:30 PM bed\nTell someone you are doing this for accountability\nTomorrow Morning (Day 1):\nWeigh yourself and measure waist, thighs, hips\nDrink ACV + lemon in warm water\nWalk 15 min fasted\nEat 4 egg breakfast with vegetables\nNo rice, no roti, no sugar, no dairy ALL DAY\nWalk 15 min after lunch\nWalk 15 min after dinner\nStrength training at 5:30 PM\nBed by 10:30 PM",
+    "summary": "The Truth About First 7 Days Weight Loss This is not all fat loss \u2014 and that is OK. Losing water and glycogen is how your body starts burning fat in weeks 2-3. The 7-Day Schedule Overview Before You Start (Do This Tonight) Remove from kitchen (give away or hide): Buy these for Week 1: Vegetables (eat freely): Spinach, ",
+    "confidence_score": 0.3,
+    "fields": [
+      {
+        "name": "document_summary",
+        "value": "The Truth About First 7 Days Weight Loss\nThis is\u00a0not\u00a0all fat loss \u2014 and that is OK. Losing water and glycogen is how your body\u00a0starts\u00a0burning fat in weeks 2-3.\nThe 7-Day Schedule Overview\n\nBefore You Start (Do This Tonight)\nRemove from kitchen (give away or hide):\nBuy these for W",
+        "confidence": 0.42,
+        "source": "ai",
+        "approved": false
+      }
+    ],
+    "validation_issues": [
+      {
+        "field": "document_summary",
+        "severity": "low",
+        "message": "Low confidence extraction needs human review."
+      }
+    ],
+    "audit_history": [
+      {
+        "actor": "system",
+        "action": "processed_document",
+        "status": "needs_review",
+        "confidence_score": 0.3
+      }
+    ],
+    "created_at": "2026-05-09T10:05:42.079158",
+    "updated_at": "2026-05-09T10:05:42.177527"
+  }
+]
