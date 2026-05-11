@@ -72,5 +72,42 @@
     ],
     "created_at": "2026-05-09T10:05:42.079158",
     "updated_at": "2026-05-09T10:05:42.177527"
+  },
+  {
+    "id": "997a6891-b607-4935-b649-c5c7380ca702",
+    "filename": "ChatGPT Image May 11, 2026, 03_07_44 PM.png",
+    "content_type": "image/png",
+    "file_path": "uploads\\ChatGPT Image May 11, 2026, 03_07_44 PM.png",
+    "document_type": "unknown",
+    "status": "needs_review",
+    "raw_text": "Image OCR placeholder. Add Tesseract or PaddleOCR here to process scanned documents. File: ChatGPT Image May 11, 2026, 03_07_44 PM.png, content type: image/png",
+    "summary": "Image OCR placeholder. Add Tesseract or PaddleOCR here to process scanned documents. File: ChatGPT Image May 11, 2026, 03_07_44 PM.png, content type: image/png",
+    "confidence_score": 0.3,
+    "fields": [
+      {
+        "name": "document_summary",
+        "value": "Image OCR placeholder. Add Tesseract or PaddleOCR here to process scanned documents. File: ChatGPT Image May 11, 2026, 03_07_44 PM.png, content type: image/png",
+        "confidence": 0.42,
+        "source": "ai",
+        "approved": false
+      }
+    ],
+    "validation_issues": [
+      {
+        "field": "document_summary",
+        "severity": "low",
+        "message": "Low confidence extraction needs human review."
+      }
+    ],
+    "audit_history": [
+      {
+        "actor": "system",
+        "action": "processed_document",
+        "status": "needs_review",
+        "confidence_score": 0.3
+      }
+    ],
+    "created_at": "2026-05-11T09:58:08.035109",
+    "updated_at": "2026-05-11T09:58:08.040656"
   }
 ]
