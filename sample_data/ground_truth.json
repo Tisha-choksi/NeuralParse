@@ -1,0 +1,44 @@
+[
+  {
+    "file": "invoices/invoice_001.txt",
+    "document_type": "invoice",
+    "fields": {
+      "vendor_name": "Acme Office Supplies Pvt Ltd",
+      "gst_number": "27ABCDE1234F1Z5",
+      "invoice_number": "INV-2026-001",
+      "date": "01/05/2026",
+      "due_date": "15/05/2026",
+      "amount": "21,712.00"
+    }
+  },
+  {
+    "file": "invoices/invoice_002.txt",
+    "document_type": "invoice",
+    "fields": {
+      "vendor_name": "BluePeak Technologies",
+      "gst_number": "29AAACB2894G1ZK",
+      "invoice_number": "BP-4482",
+      "date": "03/05/2026",
+      "due_date": "18/05/2026",
+      "amount": "96,500.00"
+    }
+  },
+  {
+    "file": "insurance_claims/claim_001.txt",
+    "document_type": "insurance_claim",
+    "fields": {
+      "claim_number": "CLM-2026-1001",
+      "patient_name": "Riya Sharma",
+      "amount": "28,500.00"
+    }
+  },
+  {
+    "file": "medical_bills/medical_bill_001.txt",
+    "document_type": "medical_bill",
+    "fields": {
+      "patient_name": "Karan Patel",
+      "date": "05/05/2026",
+      "amount": "9,600.00"
+    }
+  }
+]
