@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 888210013355
+Account Holder: Daily Bazaar Supermarket
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 2,10,000.00
+Credit: INR 7,80,000.00
+Debit: INR 6,50,000.00
+Closing Balance: INR 3,40,000.00
+Transactions: Daily sales, stock purchases, staff salaries

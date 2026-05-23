@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1008
+Policy Number: POL-778922
+Patient Name: Manoj Tiwari
+Insured: Manoj Tiwari
+Diagnosis: Respiratory therapy post-COVID
+Hospital: LungCare Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 32,000.00
+Documents Attached: Chest X-ray, pulmonologist report, invoices

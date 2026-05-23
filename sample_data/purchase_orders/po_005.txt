@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0048
+Buyer: Spice Village Restaurant
+Vendor: FreshCart Distributors
+Date: 03/05/2026
+Delivery Due Date: 09/05/2026
+Items: Cooking oil, spices, grains
+Total: INR 37,524.00
+Approval: Restaurant Manager

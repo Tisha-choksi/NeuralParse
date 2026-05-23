@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0050
+Buyer: SilverOak Residency
+Vendor: Safeguard Security Systems
+Date: 05/05/2026
+Delivery Due Date: 20/05/2026
+Items: CCTV system, access control
+Total: INR 1,47,500.00
+Approval: Facilities Manager

@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 996630005577
+Account Holder: Spice Village Restaurant
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 85,000.00
+Credit: INR 3,20,000.00
+Debit: INR 2,95,000.00
+Closing Balance: INR 1,10,000.00
+Transactions: Daily collections, vendor supplies, wages

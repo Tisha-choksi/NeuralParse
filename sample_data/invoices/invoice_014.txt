@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: TechServe IT Solutions
+GST: 29BCDEF9012G3H4
+Invoice Number: INV-2026-014
+Invoice Date: 21/05/2026
+Due Date: 04/06/2026
+Bill To: FinCore Bank Ltd
+Items: Server maintenance, cloud backup license
+Subtotal: INR 82,000.00
+Tax: INR 14,760.00
+Total: INR 96,760.00
+Payment Terms: Net 30

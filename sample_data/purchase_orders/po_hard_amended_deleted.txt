@@ -1,0 +1,44 @@
+PURCHASE ORDER  (AMENDMENT  NO.  2)
+=====================================
+(Original PO:  PO-2026-4451  dated  01/04/2026)
+(Amendment 1:  PO-2026-4451A  dated  10/04/2026)
+(Amendment 2:  THIS  DOCUMENT  â€”  dated  22/04/2026)
+
+BUYER:    Apex  Manufacturing  Ltd.
+VENDOR:   Standard  Industrial  Supplies  /  Bombay  Steel  Co.  (vendor changed?)
+
+--- CHANGES FROM AMENDMENT 1 (deletions in strikethrough, additions underlined) ---
+
+  S.No   Item Description              Qty    Rate      Amount
+  -----  --------------------------    ----  --------  ----------
+   1     Mild Steel Plate 6mm          20    58,000    11,60,000
+                                    [deleted due to quality issues]
+   2     CR Coil 0.8mm                15 MT  62,000     9,30,000
+         (NEW:  now  18  MT  as  per  production  req)
+   3     HR Coil 2.5mm                12 MT  55,000     6,60,000
+         [hold  this  â€”  may  not  be  needed  â€”  check  with  stores]
+   4     Aluminium Sheet 1.2mm         5 MT  1,85,000   9,25,000
+         (was  8  MT  in  original  PO,  reduced  to  5  MT)
+   5     Zinc Coated Pipe 1inch       200 pcs  650      1,30,000
+         [cancelled  â€”  moved  to  different  vendor]
+
+  ----  TOTALS  ----
+  Original PO Value:       INR  47,15,000
+  Amendment 1 Value:       INR  42,80,000  (-4,35,000)
+  Amendment 2 Value:       INR  38,45,000  (-4,35,000)
+
+  DELIVERY (revised):
+  Item  2:   15-May-2026
+  Item  3:   30-May-2026  (tentative â€” subject to raw material availability)
+  Item  4:   10-Jun-2026  (vendor has production issue)
+  Other:     CANCELLED / HOLD
+
+  APPROVAL STATUS:
+  [ ]  Production Manager      (signed  15/04)
+  [X]  Purchase Manager        (signed  22/04)
+  [ ]  Director                (pending   â€”   leave)
+  [X]  Finance                 (approved   with   condition   â€”   see   note)
+
+  Note  from  Finance:
+    "Budget  variance  >10%  â€”  CEO  approval  required.
+     Also,  why  did  we  change  vendor  for  item  2?  Price  is  5%  higher."

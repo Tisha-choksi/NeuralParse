@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1010
+Policy Number: POL-990876
+Patient Name: Akash Verma
+Insured: Akash Verma
+Diagnosis: Sports injury recovery
+Hospital: FitAgain Sports Clinic
+Treatment Date: 01/05/2026
+Claim Amount: INR 37,500.00
+Documents Attached: Sports doctor referral, MRI, invoices

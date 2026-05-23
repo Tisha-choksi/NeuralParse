@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: BlueWave Aquatics
+GST: 33LMNOP3456Q7R8
+Invoice Number: INV-2026-023
+Invoice Date: 30/05/2026
+Due Date: 13/06/2026
+Bill To: AquaWorld Park
+Items: Pool chemicals, cleaning equipment
+Subtotal: INR 41,200.00
+Tax: INR 7,416.00
+Total: INR 48,616.00
+Payment Terms: Net 30

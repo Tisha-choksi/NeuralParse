@@ -1,0 +1,53 @@
+CLAIM FORM CHECKLIST
+
+Patient Info:
+  Rajesh K. Patel / Rajesh K. Pillai (PANCARD says Pillai)
+  DOB: 15-08-1972 / 15-09-1972 (different records)
+  Gender: Male / M / Male (ok)
+
+Policy Details as per:
+  > Card: POL-HLTH-4412  (Sum Insured: 5 Lakhs)
+  > System: POL-HLTH-4413 (Sum Insured: 3 Lakhs)
+  > Email:  no policy found for given DOB
+
+Hospitalization:
+  Hospital:   Medcare Institute of Medical Sciences
+  IP No:       IP-2026-44122
+  Admission:  02/04/2026 @ 11:30 PM   (emergency)
+  Discharge:  09/04/2026 @ 10:00 AM
+
+Diagnosis:  STEMI / NSTEMI / Acute Coronary Syndrome
+            (diagnosis changed during stay)
+Procedures:
+  - Coronary Angiography
+  - PTCA + Stent (x1 DES to LAD)
+  - Consultant says 2 stents, report says 1
+
+Billing Details (tax invoice attached but illegible):
+  Room Rent:     45,000
+  ICU Charges:   1,20,000
+  OT + Anesthesia:   85,000
+  Implant (Stent):   1,60,000
+  Medicines:     32,500
+  Lab:           28,000
+  -----------------------------------
+  Total:         4,70,500
+  Less Discount:   -20,000
+  Net:           4,50,500
+  TDS:               -500
+  Paid:          4,50,000
+
+Claim Summary:
+  Amount Billed:    4,50,500
+  Amount Claimed:   4,50,500
+  Less Deductions:   (as per policy terms)
+    Room rent cap:    15,000 (deluxe room over above)
+    Stent cap:          -     (package rate applicable)
+  Eligible:   TBD by claims team
+
+Conflicting instructions:
+  1. Email from TPA: "Hold for investigation - stent pricing concern"
+  2. Note from agent: "Customer is VIP - process urgently"
+  3. Hospital calling daily for settlement
+
+RECOMMENDATION: ???  (field left blank)

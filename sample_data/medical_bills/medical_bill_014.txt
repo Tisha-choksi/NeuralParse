@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Megha Choudhury
+Doctor: Dr. Pooja Agarwal
+Clinic: RehabPlus Centre
+Date: 17/05/2026
+Treatment: Hand therapy, grip strengthening
+Sessions: 6
+Total: INR 9,600.00
+Payment Mode: Debit Card

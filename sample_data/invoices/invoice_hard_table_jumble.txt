@@ -1,0 +1,20 @@
+TAX INVOICE
+Supplier:  Om Sai Enterprises  |  GST: 29ABCDE1234F1Z5  |  INV:  OM-2026-888
+Invoice Date:  12/05/2026  |  Due:  27-May-2026  |  PAN:  AAAAA1234C
+
+Item         Qty    Rate    Amount
+-----------  -----  ------  ----------
+Steel almirah  2    12500    25000
+Plastic chair 20     850    17000
+Office table   4     9500    38000
+(2 damaged - 8000 deducted from total)
+======== GRAND TOTAL ========
+Subtotal  INR 80000 (before deduct)
+Less damaged:     -8000
+NET TOTAL  INR  72,000/-
+
+Tax not shown here   (ask for tax invoice separate)
+Terms:  50% advance , 50% on delivery
+Status: PARTIALLY PAID  (advance 36000 received)
+
+Note: Issued in duplicate - original for buyer

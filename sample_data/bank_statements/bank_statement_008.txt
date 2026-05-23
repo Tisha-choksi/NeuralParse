@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 111440006688
+Account Holder: SilverOak Residency
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 22,50,000.00
+Credit: INR 4,00,000.00
+Debit: INR 3,20,000.00
+Closing Balance: INR 23,30,000.00
+Transactions: Maintenance fees, security payments, utility bills

@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Pioneer Stationers
+GST: 27DDEEF5678G1H2
+Invoice Number: INV-2026-006
+Invoice Date: 13/05/2026
+Due Date: 27/05/2026
+Bill To: Bright Learning Centre
+Items: Notebooks, whiteboard markers, chart papers
+Subtotal: INR 8,750.00
+Tax: INR 1,575.00
+Total: INR 10,325.00
+Payment Terms: Net 15

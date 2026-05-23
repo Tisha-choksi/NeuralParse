@@ -1,0 +1,24 @@
+PHARMACY  BILL  /  MEDICAL  STORE
+=====================================
+Patient:   Suresh  (surname  not  clear)
+Doctor:    Dr.  Sharma  (no  dept  mentioned)
+Date:      1  /  6  /  26   (?)
+
+--- MEDICINES ---
+Tab.Pantop  40mg  x 10   @ 7.5  75/-
+Tab.Dolo  650  x  15     @  3.2  48/-
+Inj  Taxim  1gm           x 2   160/-
+Syp  Corex                 x 1   94/-
+Cap  Neurobion  30         @ 4    120/-
+*  Bandages + cotton       â€”      45/-
+*  Gloves (surgical)  x2          30/-
+*  Crepe bandage  4inch            ~85/-
+(one  item  not  scanned)
+Also  bought  -   glucose  powder  &  ORS   =  extra  60/-
+
+Total:  c a s h  paid  600/-  (billa  nahi  mila)
+
+Dr.  suggested  another  test  â€”  not  done  yet
+
+Note:  No  GSTIN  â€”  this  is  not  registered  pharmacy
+Signature:  (just  a  smiley  face  drawn)

@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: RapidMove Logistics
+GST: 24ZABCD5678E9F1
+Invoice Number: INV-2026-010
+Invoice Date: 17/05/2026
+Due Date: 31/05/2026
+Bill To: Westside Retail Chain
+Items: Freight services, warehousing
+Subtotal: INR 45,000.00
+Tax: INR 8,100.00
+Total: INR 53,100.00
+Payment Terms: Due on receipt

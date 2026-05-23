@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Joyful Toys & Gifts
+GST: 07IJKLM5678N9O1
+Invoice Number: INV-2026-015
+Invoice Date: 22/05/2026
+Due Date: 05/06/2026
+Bill To: KidsWorld Store
+Items: Board games, puzzles, art kits
+Subtotal: INR 11,200.00
+Tax: INR 2,016.00
+Total: INR 13,216.00
+Payment Terms: Net 15

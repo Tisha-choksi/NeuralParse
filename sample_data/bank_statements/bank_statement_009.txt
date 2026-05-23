@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 222550007799
+Account Holder: ConstructFirst Developers
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 45,00,000.00
+Credit: INR 12,00,000.00
+Debit: INR 15,00,000.00
+Closing Balance: INR 42,00,000.00
+Transactions: Project advances, material purchases, contractor pays

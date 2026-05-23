@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Safeguard Security Systems
+GST: 09GHIJK1234L5M6
+Invoice Number: INV-2026-011
+Invoice Date: 18/05/2026
+Due Date: 01/06/2026
+Bill To: SilverOak Residency
+Items: CCTV cameras, access control system
+Subtotal: INR 1,25,000.00
+Tax: INR 22,500.00
+Total: INR 1,47,500.00
+Payment Terms: Net 45

@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: HydroPure Filters
+GST: 33PQRST1234U5V6
+Invoice Number: INV-2026-016
+Invoice Date: 23/05/2026
+Due Date: 06/06/2026
+Bill To: GreenValley Resorts
+Items: Water purifiers, filter cartridges
+Subtotal: INR 29,800.00
+Tax: INR 5,364.00
+Total: INR 35,164.00
+Payment Terms: Net 30

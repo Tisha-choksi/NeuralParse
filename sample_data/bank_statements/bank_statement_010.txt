@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 333660008800
+Account Holder: FinCore Bank Ltd
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 1,25,00,000.00
+Credit: INR 30,00,000.00
+Debit: INR 28,00,000.00
+Closing Balance: INR 1,27,00,000.00
+Transactions: Interbank transfers, operational expenses

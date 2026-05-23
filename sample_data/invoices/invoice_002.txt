@@ -1,0 +1,11 @@
+Tax Invoice
+Vendor: BluePeak Technologies
+GSTIN: 29AAACB2894G1ZK
+Invoice No: BP-4482
+Date: 03/05/2026
+Due Date: 18/05/2026
+Customer: Apex Manufacturing Ltd
+Description: Annual SaaS subscription and implementation support
+Amount Due: INR 96,500.00
+Bank: HDFC Bank
+

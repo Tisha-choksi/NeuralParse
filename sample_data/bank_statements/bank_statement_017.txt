@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 100430015577
+Account Holder: CityCare Hospital
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 15,00,000.00
+Credit: INR 9,50,000.00
+Debit: INR 7,20,000.00
+Closing Balance: INR 17,30,000.00
+Transactions: Patient payments, pharmacy purchases, equipment EMI

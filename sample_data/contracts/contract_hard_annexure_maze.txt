@@ -1,0 +1,49 @@
+=======================================================================
+               MASTER  SERVICE  AGREEMENT  (MSA)
+=======================================================================
+  Between:
+    ABC  Technologies  Ltd  (hereafter  "Provider")
+    XYZ  Solutions  Pvt  Ltd  (hereafter  "Customer")
+  Date:  01-Jan-2026
+
+  REFER  TO  ANNEXURES  FOR  COMPLETE  TERMS.  THIS  IS  SUMMARY  ONLY.
+
+--- KEY TERMS (see Annexures A through H for details) ---
+  - Service Scope:  As per SOW #1, #2, #3 (Annexure A, B, C)
+  - Pricing:        As per Annexure D (but Annexure D says "Refer to
+                    separate pricing schedule" which is not attached)
+  - Term:           Initial 3 years   (Clause 2.1)
+                    BUT  Annexure  E  says  1  year  auto-renewable
+                    (contradicts  Clause  2.1)
+  - Termination:    90 days notice   (Clause 8.1)
+                    Also  says  30  days  for  breach  (Clause  8.3)
+                    Also  says  60  days  for  convenience  (Annexure  G)
+                    â€”  3  different  notice  periods!
+
+--- ANNEXURE STATUS ---
+  Annexure A (SOW #1):              Attached  (pages 1-4)
+  Annexure B (SOW #2):              Mentioned  but  NOT  attached
+  Annexure C (SOW #3):              "See  Annexure  B"  (???)
+  Annexure D (Pricing):             Cross-references  missing  doc
+  Annexure E (Term):                Attached  â€”  contradicts  body
+  Annexure F (SLA):                 Illegible  â€”  photocopied  poorly
+  Annexure G (Termination):         2  versions  stapled   (v1  &  v2)
+  Annexure H (Compliance):          Empty  (header  only)
+
+--- EXECUTION ---
+  Signature  page  (page  24  of  27):
+    Provider:  signed  by  "Vikas  G."  (VP  Operations)
+    Customer:  signed  by  "Rajesh  K."  (but  his  designation  says
+               "Manager"  â€”  does  he  have  authority?)
+    Date  on  signature:   15/01/2026
+    Date  on  Annexure  E:   01/03/2026  (signed  later?)
+    Date  on  Annexure  G  v2:   10/03/2026
+
+  QUESTION:  Which  set  of  terms  governs?
+  -  Body  of  MSA  (Jan)
+  -  Annexure  E  (Mar)
+  -  Annexure  G  v2  (Mar)
+  -  All  of  the  above?  Only  MSA?  Most  recent?
+
+This  agreement  is  a  mess  â€”  needs  legal  review  before  any  action.
+=======================================================================

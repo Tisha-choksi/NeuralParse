@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: MediHealth Pharmaceuticals
+GST: 27NOPQR7890S1T2
+Invoice Number: INV-2026-012
+Invoice Date: 19/05/2026
+Due Date: 02/06/2026
+Bill To: CityCare Hospital
+Items: Antibiotics, syringes, surgical gloves
+Subtotal: INR 56,300.00
+Tax: INR 10,134.00
+Total: INR 66,434.00
+Payment Terms: Net 30

@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Divya Menon
+Doctor: Dr. Kirti Shah
+Clinic: HealFirst Centre
+Date: 13/05/2026
+Treatment: TMJ therapy, facial relaxation
+Sessions: 4
+Total: INR 7,600.00
+Payment Mode: Cash

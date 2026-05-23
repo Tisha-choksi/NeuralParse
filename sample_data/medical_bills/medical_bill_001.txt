@@ -1,0 +1,10 @@
+Medical Bill
+Patient Name: Karan Patel
+Doctor: Dr. Meera Nair
+Clinic: ActiveLife Physiotherapy Clinic
+Date: 05/05/2026
+Treatment: Shoulder mobility therapy, ultrasound therapy
+Sessions: 6
+Total: INR 9,600.00
+Payment Mode: UPI
+

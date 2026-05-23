@@ -1,0 +1,40 @@
+=====================================================================
+BANK STATEMENT â€” SAVINGS ACCOUNT (MISALIGNED â€” MULTIPLE MONTHS)
+=====================================================================
+Account:  1234 5678 9012
+Holder:   Gupta  Family  Trust
+=====================================================================
+
+*** WARNING: Pages scanned out of order â€” months are interleaved ***
+
+Transaction list follows â€” dates are NOT chronological within this document.
+
+Date        Narration                               Withdrawal     Deposit      Balance
+----------  --------------------------------------  ------------  -----------  ------------
+05/03/2026  TO  RENT  â€”  MARCH                        35,000.00                 3,15,422.00
+12/02/2026  BY  DIVIDEND  RECEIVED                                  22,400.00   2,85,400.00
+18/04/2026  TO  INSURANCE  PREMIUM                    1,20,000.00               3,50,000.00
+02/04/2026  BY  INTEREST  CREDITED                                  5,200.00    2,20,000.00
+10/03/2026  TO  ELECTRICITY                            5,800.00                 3,50,422.00
+25/01/2026  TO  MEDICAL  EXPENSES                     12,000.00                 2,63,000.00
+08/05/2026  TO  WITHDRAWAL  (SELF)                    50,000.00                 3,00,000.00
+15/04/2026  BY  SALARY  CREDIT                                     85,000.00   4,70,000.00
+01/02/2026  BY  DIVIDEND  RECEIVED                                  18,000.00   2,63,000.00
+22/03/2026  TO  ONLINE  SHOPPING                        4,200.00                 3,10,822.00
+30/04/2026  TO  ATM  WITHDRAWAL                       15,000.00                 3,35,000.00
+18/05/2026  BY  REFUND                                             12,000.00   3,12,000.00
+08/01/2026  BY  OPENING BALANCE                                   1,00,000.00  1,00,000.00
+-------------------------------------------------------------------------------------------
+??? There's no running balance that makes sense in this order ???
+Opening:  1,00,000  (Jan)   ->   should  close  around  3.5L  in  Mar
+But  Mar  entries  show  inconsistent  opening  balances.
+
+Pages  appear  shuffled  â€”  this  might  be  3  different  statements
+stapled  together  by  mistake.  Please  separate  and  re-order.
+
+NOTE:  Stamp  on  page  1  says  "DUPLICATE"  â€”  not  clear  which  part
+       Page  3  has  different  account  number   (1234  5678  9999)
+       This  might  belong  to  a  different  customer!
+
+*** VERIFY BEFORE PROCESSING ***
+=====================================================================

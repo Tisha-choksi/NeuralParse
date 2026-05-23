@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0053
+Buyer: FinCore Bank Ltd
+Vendor: TechServe IT Solutions
+Date: 08/05/2026
+Delivery Due Date: 22/05/2026
+Items: Server maintenance, cloud licenses
+Total: INR 96,760.00
+Approval: CTO

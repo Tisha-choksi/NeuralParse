@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Rajeshwari Iyer
+Doctor: Dr. Amit Joshi
+Clinic: PainFree Clinic
+Date: 08/05/2026
+Treatment: Cervical spine therapy, dry needling
+Sessions: 5
+Total: INR 8,500.00
+Payment Mode: Cash

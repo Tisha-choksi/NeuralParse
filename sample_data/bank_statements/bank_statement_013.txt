@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 666990011133
+Account Holder: Skyline Tower
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 18,00,000.00
+Credit: INR 6,50,000.00
+Debit: INR 5,80,000.00
+Closing Balance: INR 18,70,000.00
+Transactions: Maintenance fund, elevator servicing, insurance

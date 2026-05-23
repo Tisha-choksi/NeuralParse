@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Shivam Electronics
+GST: 19GHIJK9012L3M4
+Invoice Number: INV-2026-007
+Invoice Date: 14/05/2026
+Due Date: 28/05/2026
+Bill To: TechHub Solutions
+Items: Routers, switches, CAT6 cables
+Subtotal: INR 67,200.00
+Tax: INR 12,096.00
+Total: INR 79,296.00
+Payment Terms: Net 45

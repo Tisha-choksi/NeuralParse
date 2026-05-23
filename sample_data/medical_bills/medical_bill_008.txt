@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Anjali Krishnan
+Doctor: Dr. Meera Nair
+Clinic: Wellness Rehab Centre
+Date: 11/05/2026
+Treatment: Postnatal core strengthening
+Sessions: 6
+Total: INR 9,000.00
+Payment Mode: Debit Card

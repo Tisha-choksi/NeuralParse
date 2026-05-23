@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Alpha DigiPrint
+GST: 08STUVW7890X1Y2
+Invoice Number: INV-2026-009
+Invoice Date: 16/05/2026
+Due Date: 30/05/2026
+Bill To: Apex Advertising Agency
+Items: Brochures, business cards, banners
+Subtotal: INR 14,600.00
+Tax: INR 2,628.00
+Total: INR 17,228.00
+Payment Terms: Net 30

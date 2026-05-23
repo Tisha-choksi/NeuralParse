@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: SafeCart Retail Ltd
+GST: 27XYZAB1234C5D6
+Invoice Number: INV-2026-021
+Invoice Date: 28/05/2026
+Due Date: 11/06/2026
+Bill To: Daily Bazaar Supermarket
+Items: Snacks, beverages, dairy products
+Subtotal: INR 16,500.00
+Tax: INR 2,970.00
+Total: INR 19,470.00
+Payment Terms: Net 15

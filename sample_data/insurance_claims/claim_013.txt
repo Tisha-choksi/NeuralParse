@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1012
+Policy Number: POL-224567
+Patient Name: Suresh Reddy
+Insured: Suresh Reddy
+Diagnosis: Occupational therapy for arthritis
+Hospital: JointCare Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 41,800.00
+Documents Attached: Rheumatologist prescription, therapy records

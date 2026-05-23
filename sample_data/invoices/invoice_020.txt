@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: AeroCool HVAC
+GST: 19QRSTU5678V9W1
+Invoice Number: INV-2026-020
+Invoice Date: 27/05/2026
+Due Date: 10/06/2026
+Bill To: Skyline Tower
+Items: AC units, ducting materials
+Subtotal: INR 3,12,000.00
+Tax: INR 56,160.00
+Total: INR 3,68,160.00
+Payment Terms: Net 60

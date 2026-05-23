@@ -1,0 +1,8 @@
+﻿Service Agreement
+Agreement Number: AGR-2026-032
+Party A: TechServe IT Solutions
+Party B: FinCore Bank Ltd
+Effective Date: 01/06/2026
+Termination: Annual maintenance and IT support contract. 90 days notice for termination.
+Clause: TechServe shall provide 24/7 server monitoring, quarterly security audits, and on-site support.
+Contract Value: INR 12,50,000.00

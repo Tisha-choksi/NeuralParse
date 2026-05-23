@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Mohammad Irfan
+Doctor: Dr. Priyanka Saxena
+Clinic: MoveWell Rehab
+Date: 09/05/2026
+Treatment: Gait training, balance exercises
+Sessions: 10
+Total: INR 16,000.00
+Payment Mode: Insurance

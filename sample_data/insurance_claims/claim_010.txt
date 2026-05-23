@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1009
+Policy Number: POL-881234
+Patient Name: Deepa Iyer
+Insured: Deepa Iyer
+Diagnosis: Post-stroke rehabilitation
+Hospital: RehabFirst Institute
+Treatment Date: 01/05/2026
+Claim Amount: INR 98,000.00
+Documents Attached: Neurologist notes, speech therapy reports

@@ -1,0 +1,9 @@
+Tax Invoice
+Vendor: QuickStart Supplies
+GST: 27ABCDE1234F1Z5
+Invoice Number: QS-1001
+Invoice Date: 11/05/2026
+Due Date: 25/05/2026
+Total: INR 15,250.00
+Notes: Use this file first to verify the upload, classification, extraction, and review flow.
+

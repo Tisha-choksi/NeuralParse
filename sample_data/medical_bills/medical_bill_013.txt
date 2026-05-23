@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Arun Pandey
+Doctor: Dr. Manoj Tiwari
+Clinic: BackCare Clinic
+Date: 16/05/2026
+Treatment: Spinal decompression, core workout
+Sessions: 8
+Total: INR 14,400.00
+Payment Mode: Credit Card

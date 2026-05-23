@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 885520004466
+Account Holder: Apex Advertising Agency
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 2,80,000.00
+Credit: INR 1,60,000.00
+Debit: INR 1,90,000.00
+Closing Balance: INR 2,50,000.00
+Transactions: Campaign payments, print bills, software subs

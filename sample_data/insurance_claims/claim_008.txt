@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1007
+Policy Number: POL-663344
+Patient Name: Sneha Kapoor
+Insured: Sneha Kapoor
+Diagnosis: Neurological physiotherapy
+Hospital: NeuroWellness Clinic
+Treatment Date: 01/05/2026
+Claim Amount: INR 45,500.00
+Documents Attached: Neurologist prescription, therapy plan

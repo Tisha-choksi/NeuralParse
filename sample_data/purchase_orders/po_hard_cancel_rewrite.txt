@@ -1,0 +1,37 @@
+PURCHASE  ORDER  (REVISED  â€”  VERSION  3)
+============================================
+PO  NO:    PO-2026-9912  (  old  ref:  PO-2026-8801  â€”  CANCELLED)
+BUYER:    Omega  Constructions  Pvt  Ltd
+VENDOR:   Supreme  BuildMart  /  Singh  Building  Materials  (??)
+
+Date:     originally  10-Apr-2026   ->   revised   15-Apr-2026
+Delivery:  20-May-2026   ->   now   10-Jun-2026   (as  per  latest  call)
+
+Items:
+               [ORIGINAL]                           [REVISED]
+  Item                  Qty   Rate             Qty   Rate
+  --------------------  ---   ------           ---   ------
+  TMT Bars (Fe 550)     5MT   58,000           8MT   59,500
+  Cement (Birla)      200bg   3,200          200bg   3,350
+  Aggregate (20mm)     12MT   1,200           12MT   1,200  (no change)
+  Bricks (class A)    5000pc     8.5         3000pc     9.0
+  Msand                15MT   1,800           15MT   2,100
+
+  Subtotal (orig):  INR 5,78,500
+  Subtotal (rev):   INR 6,92,500   (difference:  +1,14,000)
+
+  Less:  old advance  INR  1,00,000  (adjusted)
+  Balance:  INR  5,92,500
+
+Terms:  50%  on  order  confirmation,  25%  on  delivery,  25%  on  30  days
+        (or  as  mutually  agreed  â€”  verbal  discussion  with  manager)
+
+APPROVAL:   Not  yet  signed  â€”  waiting  for  director's  nod
+            (email  sent  on  12/04,  no  reply)
+            Also  â€”  this  PO  may  be  superseded  by  PO-2026-9913
+
+NOTES:    Over  budget  by  15%  â€”  need  special  approval
+          Vendor  offering  2%  discount  if  paid  within  7  days
+          (but  finance  says  payment  will  be  in  45  days  minimum)
+
+--scanned  in  haste,  unsigned--

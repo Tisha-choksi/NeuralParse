@@ -1,0 +1,40 @@
+MEDICAL BILL / CASH MEMO
+=========================
+[Logo: unrecognizable - probably photocopied 3rd generation]
+
+-- Pat nt --:   Smt.  L     eela   W  adh  wan  i  /   Leela  Devi?
+Ag e:   58  /  62   (contradictory)
+
+  Diagnosis:   HTN   +   DM   +   IHD   +   CKD   (stage 3?)
+  (multiple comorbidities - primary reason for visit unclear)
+
+Treating doctor:  Dr. ...ash  ...  (suffix cut off)
+
+Bill for consultation + investigation package:
+   ~ OPD Consultations x 3    @  700    =  2100
+   ~ PACKAGE (lab)             â€”          =  3000
+   ~ ECG x 2                           =   600
+   ~ 2D Echo                          =  2200
+   ~ TMT (but patient couldn't complete)  =  charged 1800
+   ~ Dietician consultation            =   500
+   ~ Medicines prescribed (attached separate slip, not billed here)
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+   TOTAL (inclusive of all)   =  10,200/-
+   Round off                  =    -200/-
+   NET PAYABLE                =  10,000/-
+   PAID                       =  10,000/-  [Cash / UPI / Card? not written]
+â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+
+Comments:
+- Bill is photocopy â€” original given to insurance
+- Illegible stamp (some kind of approval?)
+- No bill number visible
+- Date: vague â€” written as "this month"
+- Watermark: "PAID" but also "DUPLICATE"
+
+Wait â€” there's ANOTHER page stapled underneath:
+  Page 2 looks like it belongs to a DIFFERENT patient
+  (name says "Rajinder Kaur")
+  Probably a stapling error in the file
+
+Note to processing team: cross-check with hospital records

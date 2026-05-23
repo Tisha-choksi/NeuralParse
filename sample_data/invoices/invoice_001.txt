@@ -1,0 +1,13 @@
+Tax Invoice
+Vendor: Acme Office Supplies Pvt Ltd
+GST: 27ABCDE1234F1Z5
+Invoice Number: INV-2026-001
+Invoice Date: 01/05/2026
+Due Date: 15/05/2026
+Bill To: Northstar Retail LLP
+Items: Printer paper, toner cartridges, desk organizers
+Subtotal: INR 18,400.00
+Tax: INR 3,312.00
+Total: INR 21,712.00
+Payment Terms: Net 15
+

@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Precision Tools Co
+GST: 06EFGHI7890J1K2
+Invoice Number: INV-2026-022
+Invoice Date: 29/05/2026
+Due Date: 12/06/2026
+Bill To: MechWorks Industries
+Items: Drill bits, screwdrivers, wrenches
+Subtotal: INR 24,300.00
+Tax: INR 4,374.00
+Total: INR 28,674.00
+Payment Terms: Net 30

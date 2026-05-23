@@ -1,0 +1,8 @@
+﻿Service Agreement
+Agreement Number: AGR-2026-042
+Party A: DataSync Networks
+Party B: InfoTech Park
+Effective Date: 01/07/2026
+Termination: 5-year infrastructure partnership. 180 days termination notice.
+Clause: DataSync shall design, deploy, and maintain the entire network backbone for the tech park.
+Contract Value: INR 1,85,00,000.00

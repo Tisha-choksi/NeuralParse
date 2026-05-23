@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1019
+Policy Number: POL-998901
+Patient Name: Shweta Agarwal
+Insured: Shweta Agarwal
+Diagnosis: Post-fracture physiotherapy
+Hospital: BoneCare Ortho Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 39,200.00
+Documents Attached: Orthopedist notes, X-rays, exercise chart

@@ -1,0 +1,32 @@
+------------------------------
+        I N V O I C E
+------------------------------
+
+VENDOR:  SHREE  TRADERS
+GST:  33ABCDE1234F1Z5
+INVOICE:  ST/2026-2027/00419
+DATE:  05-APR-2026
+
+To:
+ M/s  Gupta  Construction  Co.
+ Site:  "Shubham  Residency",  opp.  Railway  Stn.
+
+ PARTICULARS:
+ ------------------------------------------------------------
+  1.  Cement (OPC 53)    -  100 bags  3,800/bag
+  2.  River Sand (truck)  -  2 units   15,000/unit
+  3.  Bricks (class A)    -  2000 pcs  8/piece
+  4.  Steel (Fe 500)      -  1.5 ton   52,000/ton
+ ------------------------------------------------------------
+   **  Loading/Unloading     @  500/per  item  [total Rs 2,000/-]
+   **  GST  extra  as applicable  (18% or 12% - check)
+   **  Transportation  charged  separately  see  lr  no  4412
+
+AMOUNT CHARGED:  Rs.  3,82,000  +  TCS  1%
+AMOUNT RECD:     Rs.  2,00,000  (chq no  334512,  HDFC)
+BALANCE:         Rs.  1,82,000  (due in  30  days)
+
+CERTIFIED THAT THE GOODS  HAVE BEEN  RECEIVED IN GOOD CONDITION
+
+         STAMP  /  SIGNATURE
+[illegible  rubber  stamp]

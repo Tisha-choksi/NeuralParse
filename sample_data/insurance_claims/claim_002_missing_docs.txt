@@ -1,0 +1,9 @@
+Insurance Claim Form
+Claim No: CLM-2026-1002
+Policy: POL-882109
+Patient: Arjun Mehta
+Diagnosis: Lower back pain rehabilitation
+Claim Amount: INR 18,750.00
+Missing Documents: Doctor prescription and payment receipt
+Status: Pending review
+

@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1015
+Policy Number: POL-550123
+Patient Name: Kavita Nair
+Insured: Kavita Nair
+Diagnosis: Geriatric mobility therapy
+Hospital: ElderCare Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 18,200.00
+Documents Attached: Age-related assessment, physio notes

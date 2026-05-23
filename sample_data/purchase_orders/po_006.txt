@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0049
+Buyer: Apex Advertising Agency
+Vendor: Alpha DigiPrint
+Date: 04/05/2026
+Delivery Due Date: 14/05/2026
+Items: Brochures, banners, visiting cards
+Total: INR 17,228.00
+Approval: Creative Head

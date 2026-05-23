@@ -1,0 +1,52 @@
+=======================================================================
+     CONTRACT  RENEWAL  /  EXTENSION   (overlapping  periods)
+=======================================================================
+
+Ref:   AGR-2024-112   (original  â€”  expired  31-Dec-2025)
+       AGR-2025-118   (renewal  1  â€”  01-Jan-2026  to  31-Mar-2026)
+       AGR-2026-044   (renewal  2  â€”  01-Apr-2026  to  30-Jun-2026)
+       [CURRENT  DOCUMENT]
+
+Parties:
+  Telecom  Services  India  Ltd  ("TSP")
+  BroadBand  Connect  Pvt  Ltd  ("BBC")
+
+---  RENEWAL  STATUS  ---
+  Original  contract  expired  2  months  ago.
+  Renewal  1  was  signed  on  15-Jan  (retrospective)
+  Renewal  2  is  proposed  but  NOT  signed.
+  BBC  continued  receiving  services  after  expiry.
+  TSP  continued  invoicing  at  old  rates  +  10%  escalation.
+
+---  CURRENT  DISPUTES  ---
+  1.  Rate  escalation:  TSP  claims  10%  increase  was  agreed  verbally
+      BBC  says  "no  such  agreement"  and  is  disputing  2  invoices
+
+  2.  Service  credits:  BBC  claims  outage  on  12-Mar,  15-Mar,  22-Mar
+      (total  6  hours  downtime)  â€”  TSP  says  "scheduled  maintenance"
+      â€”  no  SLA  credit  applicable
+
+  3.  Late  payment  penalty:  BBC  delayed  payment  for  Jan  invoice
+      (30  days  overdue)  â€”  TSP  wants  2%  monthly  penalty
+      BBC  argues  "no  penalty  clause  in  expired  contract"
+
+---  DOCUMENT  NOTES  ---
+  -  Signatures  page  missing  from  this  copy   (page  7  of  8)
+  -  Terms  referenced   from  "Schedule  1"  which  is  from  AGR-2024-112
+  -  No  valid  contract  currently  exists   (expired  on  31-Mar)
+  -  Ongoing  services  on  month-to-month  basis   (terms  unclear)
+
+---  LEGAL  OPINION  (handwritten)  ---
+  "In  my  view,  without  a  signed  renewal,  either  party  can
+   terminate  at  will.  Recommend  getting  AGR-2026-044  signed
+   urgently  with  clear  terms  on  rates,  SLA,  and  penalty.
+   Also,  past  invoices  at  old  rates  should  be  honoured
+   unless  new  agreement  explicitly  states  escalation.
+   â€”  Adv.  Kapoor"
+
+---  ACTION  ITEMS  ---
+  [ ]  Get  AGR-2026-044  signed  by  both  parties
+  [ ]  Resolve  rate  escalation  dispute  (meeting  on  10-May)
+  [ ]  Agree  on  SLA  credits  for  Mar  outage
+  [ ]  Confirm  whether  penalties  apply  for  Jan  delay
+  [ ]  File  all  3  agreements  together  (current  filing  is  incomplete)

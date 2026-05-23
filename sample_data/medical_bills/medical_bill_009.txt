@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Gurpreet Singh
+Doctor: Dr. Vikram Sethi
+Clinic: StrengthPlus Physio
+Date: 12/05/2026
+Treatment: Rotator cuff rehab, ultrasound therapy
+Sessions: 7
+Total: INR 11,900.00
+Payment Mode: Credit Card

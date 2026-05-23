@@ -1,0 +1,41 @@
+CLAIM FORM (OLD VERSION)
+-----------------------------
+[watermark: SAMPLE - NOT FOR PROCESSING]
+
+Policy 1:   POL-88763-01
+Policy 2:   POL-11234-02   (which one applies?)
+Patient:    Mrs. Kavita Nair / Kavita Nair-Sharma (name mismatch)
+Claim #:    CLM/06/2026-771   // also referred as 771A
+
+Date of Loss:  05/04/2026 or 06/04/2026 (conflicting)
+Type:          Mediclaim / Personal Accident? (tick marks both)
+
+History: Patient diagnosed with hypertensive urgency + mild stroke
+         â€” previous history of diabetes (type 2)
+         â€” also mentioned thyroid issues (but no records)
+
+Hospitalization: Ruby General Hospital
+  - 6 days in CCU   (3 days ICU)
+  - Procedure: none (conservative management)
+  - Total billed: INR 2,34,000/-
+  - Insurance approved: INR 1,67,000/-
+
+IMPORTANT NOTES from TPAs:
+1. Pre-auth taken on 08/04 (ref PA-2026-4412)
+2. Final bill has patient name as "Kavita S Nair"
+3. Discharge summary missing treating doctor's signature
+
+DOCUMENT CHECKLIST:
+[âœ“]  Claim form
+[âœ“]  Discharge summary (unsigned)
+[ ]  Investigation reports (not attached)
+[âœ“]  Original bills (partial - some photocopies)
+[ ]  Doctor's prescription (attached but illegible)
+
+Amount Claimed:  2,34,000/-
+Less Deductibles:  25,000/-
+Net Claimed:  2,09,000/-  (as per their calculation)
+                2,09,500/-  (as per our calculation)
+
+We recommend releasing full payment   ---   or   ---   hold for investigation
+Pls. check with underwriting team once

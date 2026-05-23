@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Fatima Sheikh
+Doctor: Dr. Sneha Reddy
+Clinic: FlexWell Physiotherapy
+Date: 07/05/2026
+Treatment: Knee mobilization, strength exercises
+Sessions: 8
+Total: INR 12,800.00
+Payment Mode: UPI

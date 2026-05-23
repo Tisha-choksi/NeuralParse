@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Swati Kale
+Doctor: Dr. Neelam Desai
+Clinic: FlexiPhysio Care
+Date: 15/05/2026
+Treatment: Ankle sprain rehabilitation
+Sessions: 5
+Total: INR 6,500.00
+Payment Mode: UPI

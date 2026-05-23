@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1013
+Policy Number: POL-336789
+Patient Name: Neha Jain
+Insured: Neha Jain
+Diagnosis: Pediatric developmental therapy
+Hospital: KidsFirst Clinic
+Treatment Date: 01/05/2026
+Claim Amount: INR 29,400.00
+Documents Attached: Pediatrician referral, assessment reports

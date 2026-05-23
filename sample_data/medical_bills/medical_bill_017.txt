@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Varun Dhawan
+Doctor: Dr. Alok Mishra
+Clinic: PainRelief Physio
+Date: 20/05/2026
+Treatment: Myofascial release, cupping therapy
+Sessions: 3
+Total: INR 5,100.00
+Payment Mode: Cash

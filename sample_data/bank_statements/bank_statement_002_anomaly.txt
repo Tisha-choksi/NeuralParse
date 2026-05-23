@@ -1,0 +1,10 @@
+Bank Statement
+Account Number: 774401005511
+Account Holder: Apex Manufacturing Ltd
+Statement Period: 01/04/2026 to 30/04/2026
+Opening Balance: INR 12,30,000.00
+Credit: INR 4,75,000.00
+Debit: INR 15,80,000.00
+Closing Balance: INR 1,25,000.00
+Alert: Large debit observed compared to monthly average
+

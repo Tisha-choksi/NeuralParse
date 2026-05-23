@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1011
+Policy Number: POL-112345
+Patient Name: Priya Mehta
+Insured: Priya Mehta
+Diagnosis: Maternity physiotherapy
+Hospital: MotherCare Hospital
+Treatment Date: 01/05/2026
+Claim Amount: INR 24,000.00
+Documents Attached: Gynecologist referral, treatment plan

@@ -1,0 +1,9 @@
+Medical Report and Bill
+Patient: Sneha Kapoor
+Doctor: Dr. Vivek Rao
+Diagnosis: Cervical spondylosis
+Treatment: Manual therapy and posture correction program
+Date: 06/05/2026
+Amount Due: INR 12,400.00
+Follow Up: 20/05/2026
+

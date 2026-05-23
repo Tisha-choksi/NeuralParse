@@ -1,0 +1,11 @@
+Insurance Claim Form
+Claim Number: CLM-2026-1001
+Policy Number: POL-778821
+Patient Name: Riya Sharma
+Insured: Riya Sharma
+Diagnosis: Ligament injury requiring physiotherapy
+Hospital: Sunrise Care Clinic
+Treatment Date: 22/04/2026
+Claim Amount: INR 28,500.00
+Documents Attached: Prescription, invoices, discharge summary
+

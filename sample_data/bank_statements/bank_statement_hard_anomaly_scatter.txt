@@ -1,0 +1,39 @@
+                    BANK STATEMENT  (scattered  data)
+                    ==================================
+  Account:  331155772200  /  a/c  name:   Ananya  &  Co.  /  Anaya  Traders
+
+|  DATE    |  PARTICULARS          |  DEBIT    |  CREDIT    |  BALANCE   |
+|----------|----------------------|-----------|------------|------------|
+| 01-04-26 | Bal b/d              |           |            | 2,85,400   |
+| 03-04-26 | Chq 887231           | 45,000    |            | 2,40,400   |
+|          |  (to  Sharma  ji)    |           |            |            |
+| 05-04-26 | Cash (source ?)      |           | 1,00,000   | 3,40,400   |
+| 08-04-26 | NEFT  â€”  Raj  btfl    |           | 22,500     | 3,62,900   |
+| 10-04-26 | Chq deposited        |           | 1,50,000   | 5,12,900   |
+|          | (but returned on 12th)|           |            |            |
+| 12-04-26 | Chq return            | 1,50,000  |            | 3,62,900   |
+| 12-04-26 | Return charges        | 575       |            | 3,62,325   |
+| 15-04-26 | Rent paid             | 35,000    |            | 3,27,325   |
+| 15-04-26 | Salary  (staff 8)     | 1,20,000  |            | 2,07,325   |
+| 15-04-26 | Electricity           | 22,400    |            | 1,84,925   |
+| 18-04-26 | ????  â€”  Unclear      | ???       | ???        | ? (see below)
+| 20-04-26 | Internet Banking       | 12,000    |            | (balance not updated)
+| 22-04-26 | Cash withdrawal        | 50,000    |            | (NA)
+| 25-04-26 | Online transfer        |           | 80,000     | (unclear)
+| 30-04-26 | Closing  (as per bank) |           |            | 2,02,925   |
+
+OOOOPS  â€”  does  NOT  tally:
+ +  Opening  2,85,400
+ +  Total  credits  shown:  1,00,000  +  22,500  +  1,50,000  +  80,000  =  3,52,500
+ -  Total  debits  shown:  45,000  +  1,50,000  +  575  +  35,000  +  1,20,000  +  22,400  +  12,000  +  50,000  =  4,34,975
+ =  Closing  by  calculation:  2,02,925
+    Closing  as  per  statement:  2,02,925  (OK!)
+
+But  account  holder's  register  shows  closing  as  1,84,550
+Difference:  18,375  â€”  possible  unrecorded  charges  or  missing  entry
+
+ENTRY ON 18th:  "SUNDRY CREDIT â€” ADJ ENTRY"  40,000  (very faint)
+                   (no  debit  for  this  anywhere)
+
+ALERT:  Large  cash  deposit  of  1  Lakh  â€”  source  not  mentioned
+        Possible  violation  of  cash  transaction  limit?

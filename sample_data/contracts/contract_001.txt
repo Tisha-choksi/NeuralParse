@@ -1,0 +1,9 @@
+Service Agreement
+Agreement Number: AGR-2026-031
+Party A: BluePeak Technologies
+Party B: Apex Manufacturing Ltd
+Effective Date: 01/05/2026
+Termination: Either party may terminate with 30 days written notice.
+Clause: Vendor shall provide implementation support and uptime monitoring.
+Contract Value: INR 96,500.00
+

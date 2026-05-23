@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: Urban Furniture Mart
+GST: 27WXYZ7890A1B2
+Invoice Number: INV-2026-017
+Invoice Date: 24/05/2026
+Due Date: 07/06/2026
+Bill To: Zen Office Spaces
+Items: Ergonomic chairs, standing desks
+Subtotal: INR 1,78,500.00
+Tax: INR 32,130.00
+Total: INR 2,10,630.00
+Payment Terms: Net 45

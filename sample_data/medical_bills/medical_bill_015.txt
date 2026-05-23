@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Dinesh Kumar
+Doctor: Dr. Rajeev Sinha
+Clinic: JointCare Physio
+Date: 18/05/2026
+Treatment: Carpal tunnel therapy, nerve gliding
+Sessions: 4
+Total: INR 6,400.00
+Payment Mode: UPI

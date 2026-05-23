@@ -1,0 +1,8 @@
+Invoice
+Supplier: Metro Facility Services
+Invoice Number: MFS-781
+Invoice Date: 07/05/2026
+Services: Housekeeping and facility support
+Notes: GST number not visible on scanned copy.
+Total: INR 42,000.00
+

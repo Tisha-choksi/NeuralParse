@@ -1,0 +1,15 @@
+T a x   I n v o i c e
+Vendor:  Metr0 C1ty  3lectr0nics
+GSTIN: 2 7 A B C D E 1 2 3 4 F 1 Z 5
+lnv0lce N0: lNV-2026-099
+Date: 23/0 4/2 02 6
+Due:   15-0 5-2 02 6
+BILL TO:  SHARMA &  SONS  TRADING  CO
+Items  ---
+> 12x  C P U  fans  (Rs. 450/- each)
+>  4x  S M P S  units  @  1850
+> 24x USB  cables  -  80 rs  per  p i e c e
+
+Total:  INR  12,7  50/-  only
+(tax included  as per  rates)
+NOTE: Scanned from physical copy - some text may be unclear.

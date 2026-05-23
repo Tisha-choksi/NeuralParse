@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0060
+Buyer: Daily Bazaar Supermarket
+Vendor: SafeCart Retail Ltd
+Date: 15/05/2026
+Delivery Due Date: 22/05/2026
+Items: Snacks, beverages, dairy
+Total: INR 19,470.00
+Approval: Store Manager

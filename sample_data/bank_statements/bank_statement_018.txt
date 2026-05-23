@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 211540016688
+Account Holder: BluePeak Technologies
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 32,00,000.00
+Credit: INR 14,50,000.00
+Debit: INR 11,80,000.00
+Closing Balance: INR 34,70,000.00
+Transactions: SaaS revenue, cloud infra costs, payroll

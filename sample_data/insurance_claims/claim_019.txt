@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1018
+Policy Number: POL-886789
+Patient Name: Vijay Patil
+Insured: Vijay Patil
+Diagnosis: Vestibular rehabilitation
+Hospital: BalanceCare Clinic
+Treatment Date: 01/05/2026
+Claim Amount: INR 26,000.00
+Documents Attached: ENT referral, balance assessment reports

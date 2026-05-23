@@ -1,0 +1,10 @@
+Tax Invoice
+Vendor: Zenith Logistics
+GST: 07ZZZZZ9999Z1Z9
+Invoice Number: ZL-9912
+Invoice Date: 09/05/2026
+Due Date: 08/05/2026
+Description: Freight charges for express shipment
+Total: INR 3,75,000.00
+Payment Terms: Due on receipt
+

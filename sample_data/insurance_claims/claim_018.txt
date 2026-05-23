@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1017
+Policy Number: POL-774567
+Patient Name: Pooja Chopra
+Insured: Pooja Chopra
+Diagnosis: Pelvic floor physiotherapy
+Hospital: WomenFirst Clinic
+Treatment Date: 01/05/2026
+Claim Amount: INR 15,800.00
+Documents Attached: Gynecologist referral, therapy records

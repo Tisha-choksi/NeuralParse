@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Lakshmi Narayan
+Doctor: Dr. Rohan Bhat
+Clinic: ActiveLife Physiotherapy Clinic
+Date: 10/05/2026
+Treatment: Elbow tendinitis therapy, stretches
+Sessions: 3
+Total: INR 4,200.00
+Payment Mode: UPI

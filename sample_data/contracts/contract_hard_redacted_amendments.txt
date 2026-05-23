@@ -1,0 +1,49 @@
+SERVICE AGREEMENT  (CONTINUATION SHEET â€” AMENDMENTS & SCHEDULES)
+=================================================================
+Original Agreement:  AGR-2026-015  between
+  Party A:  DataFlow Networks Pvt Ltd
+  Party B:  FinCore Services Ltd (formerly FinCore Bank Ltd â€” name changed)
+  Date:  01/02/2026
+
+--- AMENDMENT 1 (dated 15/03/2026) ---
+Clause 4.2 â€” Service Levels:
+  Original:  99.5%  uptime  guarantee
+  Amended:   99.9%  uptime  guarantee  (effective  01/04/2026)
+  Penalty:  changed  from  2%  to  5%  of  monthly  fee  per  0.1%  breach
+
+Clause 7 â€” Payment Terms:
+  Original:  Net  45
+  Amended:  Net  30  with  2%  discount  if  paid  within  10  days
+  [BUT â€” handwritten note: "actually decided to keep Net 45 â€” discuss"]
+
+--- AMENDMENT 2 (verbal â€” not signed) ---
+Per email dated 10/04/2026 from director (Anil Sharma):
+  "We agreed to extend the contract term by 6 months at same rates"
+  No formal amendment executed yet.
+
+--- SCHEDULE B â€” Pricing (page 3 of 5) ---
+  Item                              Rate (per month)
+  ----------------------------------------------------
+  Managed Network Services            1,85,000
+  Cloud Monitoring                     45,000
+  Security Audit (quarterly)          1,20,000  (billed quarterly)
+  Helpdesk Support (24x7)              75,000
+  ----------------------------------------------------
+  Total Monthly:                      3,05,000
+  GST extra @ 18%
+
+  [REDACTED]  â€”  some  pricing  info  blacked  out  â€”  reason:  confidential
+
+--- SCHEDULE C â€” Termination Clauses ---
+  Notice period:  [REDACTED]  days  (original was 30, but maybe 90?)
+  Early termination penalty:  [REDACTED]  â€”  mentioned as 3 months fee
+  Auto-renewal:  Yes / No (tick both â€” conflicting)
+
+NOTES:
+- Amendment 2 not signed â€” validity questionable
+- Redacted portions might contain key commercial terms
+- Two different versions of Clause 7 exist (confusion)
+- Contract expired on 30/04/2026 â€” currently on holdover
+
+RECOMMENDATION:  Obtain  executed  copy  of  Amendment  1  at  minimum
+                 Clarify  status  of  Amendment  2  before  processing

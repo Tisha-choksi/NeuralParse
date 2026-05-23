@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1004
+Policy Number: POL-331245
+Patient Name: Vikram Singh
+Insured: Vikram Singh
+Diagnosis: Knee replacement physiotherapy
+Hospital: OrthoCare Institute
+Treatment Date: 01/05/2026
+Claim Amount: INR 62,000.00
+Documents Attached: Surgeon notes, physio reports, invoices

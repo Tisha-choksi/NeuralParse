@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1016
+Policy Number: POL-662345
+Patient Name: Amit Bose
+Insured: Amit Bose
+Diagnosis: Hand trauma rehabilitation
+Hospital: SurgeryPlus Hospital
+Treatment Date: 01/05/2026
+Claim Amount: INR 33,600.00
+Documents Attached: Surgery report, occupational therapy plan

@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0051
+Buyer: CityCare Hospital
+Vendor: MediHealth Pharmaceuticals
+Date: 06/05/2026
+Delivery Due Date: 13/05/2026
+Items: Antibiotics, surgical supplies
+Total: INR 66,434.00
+Approval: Pharmacy Head

@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 663390002244
+Account Holder: Bright Learning Centre
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 1,50,000.00
+Credit: INR 2,40,000.00
+Debit: INR 1,20,000.00
+Closing Balance: INR 2,70,000.00
+Transactions: Fee collections, salary, utilities

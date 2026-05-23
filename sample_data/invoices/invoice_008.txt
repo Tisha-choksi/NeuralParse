@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: FreshCart Distributors
+GST: 33LMNOP3456Q7R8
+Invoice Number: INV-2026-008
+Invoice Date: 15/05/2026
+Due Date: 29/05/2026
+Bill To: Spice Village Restaurant
+Items: Cooking oil, spices, packaged grains
+Subtotal: INR 31,800.00
+Tax: INR 5,724.00
+Total: INR 37,524.00
+Payment Terms: Net 15

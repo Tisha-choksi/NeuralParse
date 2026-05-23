@@ -1,0 +1,39 @@
+L A B O R A T O R Y   R E P O R T   /   B I L L
+===============================================
+Patient:  Annu / Anuradha / Anu   (name mismatch across pages)
+Ref By:   Dr.  Bhatia  /  Dr.  Bhat  (two  different  doctors)
+Date:  15-Apr-26  (collection)
+       17-Apr-26  (reporting)
+
+TEST                                     AMOUNT
+---------------------------------------- --------
+CBC + ESR                                00.00*  (see note)
+LFT    (SGOT/SGPT/ALP/Bilirubin)         00.00*
+KFT    (Urea/Creatinine/Uric Acid)        00.00*
+Thyroid Profile (T3/T4/TSH)              00.00*
+Lipid Profile                            00.00*
+HbA1c                                    00.00*
+* Tests done under package   [PACKAGE CODE:  HEALTH-44]
+  Package MRP:  3,500/-
+  Discount:      -500/-
+  Net Paid:     3,000/-  (CASH)
+
+Additional charges:
+  ECG       300/-
+  X-Ray Chest PA view   400/-
+  Ultrasound Abdomen    1,200/- (not reported yet)
+  ------------------------------
+  Extras:   1,900/-
+
+GRAND TOTAL:  4,900/-
+
+(--- handwritten at bottom ---)
+sir, report aaj nahi bane ga, kal aaiyega
+sample  thoda  haemolysed  hai,  kuch  test  repeat  karna  padega
+pls  call  between  5-6pm
+
+Note on Bill Quality:
+  * Logo cut off at top
+  * Doctor name partially erased
+  * Receipt number overwritten with pen
+  * Amount in words: "Three Thousand Only" but actual charged 4900

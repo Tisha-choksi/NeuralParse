@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1005
+Policy Number: POL-447821
+Patient Name: Ananya Gupta
+Insured: Ananya Gupta
+Diagnosis: Cardiac rehabilitation program
+Hospital: HeartFirst Medical Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 1,20,000.00
+Documents Attached: ECG reports, doctor referral, invoices

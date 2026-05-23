@@ -1,0 +1,30 @@
+Insurance Claim Form
+----------------------------------------
+Claim No:     CLM/2026/  (?? refer email)   [scratched out]
+Policy No:    POL  -  4412 89  (mismatch with card)
+Patient:      Sh.  Ramesh  Chandra  Sharma  (age  67)
+
+Hospital:         City  Care  Hospital  /  Fortis  (both  mentioned?)
+Admission:        12/04/2026         Discharge:  20/04/2026
+Diagnosis:        C.O.P.D.  /  asthma?   (records  unclear)
+
+Treatment:  ICU  3  days  +  general  5  days
+            ventilatior  support  (2  days)
+            medications  as  per  chart
+
+Claim  Amount:   1,85,000/-  (estimated)
+                 1,42,300/-  (billed)
+                 1,22,800/-  (eligible?)
+
+Documents  Attached:
+x  Discharge  summary  (page  1  only,  page  2  missing)
+x  Pharmacy  bills    Rs  12,400
+x  Doctor  consultation  slips   (3  pcs)
+x  Investigation  reports  (X-ray,  blood  tests)
+?  Follow-up  prescription   (not  clear)
+
+REMARKS by hospital:
+"Patient was admitted through emergency   ---   we recommend early settlement"
+
+ALERT:  Some  documents  appear  photocopied  -  originals  not  verified
+STATUS:  Pending  review  (awaiting  documents  from  patient)

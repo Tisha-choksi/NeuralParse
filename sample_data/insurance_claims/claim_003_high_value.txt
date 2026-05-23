@@ -1,0 +1,9 @@
+Insurance Claim
+Claim Number: CLM-2026-1099
+Policy Number: POL-556700
+Patient Name: Nisha Rao
+Diagnosis: Post-surgery rehabilitation package
+Hospital: CityPlus Medical Center
+Claim Amount: INR 4,85,000.00
+Notes: High value claim, manual approval required
+

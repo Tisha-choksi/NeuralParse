@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: DataSync Networks
+GST: 09STUVW9012X3Y4
+Invoice Number: INV-2026-024
+Invoice Date: 31/05/2026
+Due Date: 14/06/2026
+Bill To: InfoTech Park
+Items: Fiber optic cables, patch panels
+Subtotal: INR 93,600.00
+Tax: INR 16,848.00
+Total: INR 1,10,448.00
+Payment Terms: Net 45

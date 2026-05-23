@@ -1,0 +1,37 @@
+STATEMENT OF ACCOUNT (CONSOLIDATED â€” INR + USD)
+=================================================
+Account:  Current Account # 100220334455
+Entity:   GlobalTech  Exports  Pvt  Ltd
+Period:   Jan  2026  â€”  Mar  2026  (Q4  FY25-26)
+
+!!!  NOTE  !!!  The  statement  combines  INR  and  USD  transactions.
+Exchange  rate  varies  per  transaction.  Some  entries  unmarked.
+
+Date         Particulars                     FC Amount     INR Amount
+------------ ------------------------------ ------------  ------------
+02-JAN-26    OPENING BALANCE                               12,45,000.00
+05-JAN-26    Export remittance - IBKR        USD 4,200     3,47,500.00
+08-JAN-26    Supplier payment - China        USD 1,800     1,50,000.00
+10-JAN-26    salary  (staff 12)                              4,20,000.00
+12-JAN-26    Rent  -  office                                 1,20,000.00
+15-JAN-26    Invoice  #2241  paid  (client)   USD 5,500     4,55,000.00
+20-JAN-26    TDS  deposited                                   42,000.00
+22-JAN-26    Forex  conversion  (USD->INR)    USD 2,000       ?
+28-JAN-26    Refund  -  shipping  charges      USD 225         18,600.00
+31-JAN-26    Bank  charges                                     2,500.00
+-----------------------------------------------------------
+FEB-26   [separate  page  -  see  attachment  A]
+[missing â€” scanned but blank page attached]
+-----------------------------------------------------------
+15-MAR-26    Ledger correction entry                           -5,500.00
+20-MAR-26    GST payment                                      1,80,000.00
+25-MAR-26    Advance  received  (new  order)   USD 12,000     9,90,000.00
+31-MAR-26    CLOSING BALANCE                                 24,09,100.00
+
+Discrepancy:
+  o  Feb  statement  not  available  â€”  system  error  says  "PDF  corrupted"
+  o  Total  USD  credits  =  ,925  vs  INR  shown  =  18,11,100
+     (at  avg  rate  82.6,  should  be  18,11,925  â€”  diff  825)
+  o  Does  not  tally  with  ledger  balance  per  books  (22,85,000)
+
+Clarification  request  sent  to  bank  on  10-Apr  â€”  no  reply  yet

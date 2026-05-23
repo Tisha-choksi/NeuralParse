@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: GreenTech Solutions
+GST: 29AABBCC1234D1Z6
+Invoice Number: INV-2026-005
+Invoice Date: 12/05/2026
+Due Date: 26/05/2026
+Bill To: Urban Mart Pvt Ltd
+Items: LED bulbs, power strips, extension cords
+Subtotal: INR 22,500.00
+Tax: INR 4,050.00
+Total: INR 26,550.00
+Payment Terms: Net 30

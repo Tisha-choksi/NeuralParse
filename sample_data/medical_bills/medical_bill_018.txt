@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Yashoda Nair
+Doctor: Dr. Deepak Chopra
+Clinic: PrimeMove Clinic
+Date: 21/05/2026
+Treatment: Parkinson's gait therapy
+Sessions: 10
+Total: INR 20,000.00
+Payment Mode: Insurance

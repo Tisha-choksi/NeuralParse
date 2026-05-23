@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: EcoBuild Materials
+GST: 06UVWXY3456Z7A8
+Invoice Number: INV-2026-013
+Invoice Date: 20/05/2026
+Due Date: 03/06/2026
+Bill To: ConstructFirst Developers
+Items: Cement, steel rods, bricks
+Subtotal: INR 2,34,000.00
+Tax: INR 42,120.00
+Total: INR 2,76,120.00
+Payment Terms: Net 60

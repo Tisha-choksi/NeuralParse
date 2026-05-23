@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 777100012244
+Account Holder: Cafe Mocha Lounge
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 40,000.00
+Credit: INR 1,90,000.00
+Debit: INR 1,70,000.00
+Closing Balance: INR 60,000.00
+Transactions: Sales receipts, coffee bean purchases, payroll

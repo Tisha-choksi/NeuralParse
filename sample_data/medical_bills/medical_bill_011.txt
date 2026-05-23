@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Prakash Joshi
+Doctor: Dr. Sanjay Verma
+Clinic: OrthoPhysio Clinic
+Date: 14/05/2026
+Treatment: Hip replacement recovery exercises
+Sessions: 12
+Total: INR 21,600.00
+Payment Mode: Insurance

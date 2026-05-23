@@ -1,0 +1,39 @@
+======================================================================
+              BANK STATEMENT (RAW EXPORT â€” NOT EDITED)
+======================================================================
+Branch:  HDFC BANK LTD â€” SECTOR 18, NOIDA
+Account:  50100456789123
+Name:     M/S  OMEGA  CONSTRUCTIONS  PVT  LTD
+Period:   01-APR-2026  to  30-APR-2026
+Print:    05-MAY-2026
+
+======================================================================
+TXN DATE    NARRATION                           CHQ/REF    DEBIT      CREDIT     BALANCE
+======================================================================
+01-APR-26   OPENING BALANCE                                                 0.00
+02-APR-26   CHQ NO 441231                   00441231   500000.00            500000.00
+02-APR-26   RTGS-HDFC-HO-2026-4412                     250000.00           750000.00
+03-APR-26   CASH DEPOSIT (COUNTER)                      150000.00           900000.00
+05-APR-26   NEFT INW-ICICI-66712                         75000.00           975000.00
+05-APR-26   CHQ BOOK CHARGES                        0       472.00          974528.00
+05-APR-26   GST ON CHQ BOOK                            0      85.00          974443.00
+07-APR-26   CHQ NO 441232 (BOUNCE)             00441232  500000.00          474443.00
+            (RETURN REASON: REFER TO DRAWER)
+08-APR-26   CHQ DEPOSIT 441233                          500000.00           974443.00
+10-APR-26   NEFT OUT-HDFC-PAYROLL-04/26                435000.00           539443.00
+10-APR-26   POS PURCHASE â€”  SUPREME BUILD                25000.00          514443.00
+12-APR-26   ATM WITHDRAWAL  â€”  COUNTER?                  50000.00          464443.00
+15-APR-26   CHQ NO 441234 (PRESENTED)          00441234  70000.00           394443.00
+15-APR-26   INTEREST CREDITED (SB)                         342.00          394785.00
+18-APR-26   NEFT INW-SUNDRY DEBTOR-2204                 125000.00          519785.00
+20-APR-26   CASH WITHDRAWAL â€”  OFFICE USE                75000.00          444785.00
+25-APR-26   RTGS-VENDOR PAYMENT-SUPREME                 412000.00           32785.00
+28-APR-26   SMS CHARGES                             0       59.00           32726.00
+30-APR-26   BALANCE AS ON DATE                                                 32726.00
+======================================================================
+
+*** This is a computer-generated statement. Signature not required. ***
+
+Note:  Opening  balance  shows  0.00  â€”  account  was  opened  in  March
+       Some  transactions  may  appear  out  of  order  â€”  date  is  value  date
+       Rs  500  cheque  returned  â€”  penal  interest  applicable

@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0061
+Buyer: MechWorks Industries
+Vendor: Precision Tools Co
+Date: 16/05/2026
+Delivery Due Date: 30/05/2026
+Items: Drill bits, wrenches, tool sets
+Total: INR 28,674.00
+Approval: Production Head

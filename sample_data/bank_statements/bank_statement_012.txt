@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 555880010022
+Account Holder: Zen Office Spaces
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 3,75,000.00
+Credit: INR 2,10,000.00
+Debit: INR 1,55,000.00
+Closing Balance: INR 4,30,000.00
+Transactions: Rent collections, utility bills, office supplies

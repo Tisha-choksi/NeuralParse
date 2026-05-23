@@ -1,0 +1,9 @@
+﻿Medical Bill
+Patient Name: Sandeep Rao
+Doctor: Dr. Arvind Kulkarni
+Clinic: PhysioHeal Centre
+Date: 06/05/2026
+Treatment: Lumbar traction, heat therapy
+Sessions: 4
+Total: INR 5,200.00
+Payment Mode: Credit Card

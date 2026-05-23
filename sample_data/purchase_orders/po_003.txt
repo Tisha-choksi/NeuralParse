@@ -1,0 +1,9 @@
+﻿Purchase Order
+PO Number: PO-2026-0046
+Buyer: Westside Retail Chain
+Vendor: GreenTech Solutions
+Date: 01/05/2026
+Delivery Due Date: 10/05/2026
+Items: LED bulbs, power strips
+Total: INR 26,550.00
+Approval: VP Operations

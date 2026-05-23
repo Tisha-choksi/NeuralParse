@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: SunBake Foods
+GST: 29JKLMN9012O3P4
+Invoice Number: INV-2026-019
+Invoice Date: 26/05/2026
+Due Date: 09/06/2026
+Bill To: Cafe Mocha Lounge
+Items: Flour, sugar, baking mixes
+Subtotal: INR 6,800.00
+Tax: INR 1,224.00
+Total: INR 8,024.00
+Payment Terms: Net 7

@@ -1,0 +1,12 @@
+﻿Tax Invoice
+Vendor: QuickFix Auto Parts
+GST: 08CDEFG3456H7I8
+Invoice Number: INV-2026-018
+Invoice Date: 25/05/2026
+Due Date: 08/06/2026
+Bill To: Speedy Garage
+Items: Brake pads, engine oil, air filters
+Subtotal: INR 9,450.00
+Tax: INR 1,701.00
+Total: INR 11,151.00
+Payment Terms: Net 15

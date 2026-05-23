@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1014
+Policy Number: POL-448901
+Patient Name: Rohit Malhotra
+Insured: Rohit Malhotra
+Diagnosis: Cancer rehabilitation therapy
+Hospital: OncoCare Centre
+Treatment Date: 01/05/2026
+Claim Amount: INR 1,55,000.00
+Documents Attached: Oncologist plan, chemo records, physio notes

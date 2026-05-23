@@ -1,0 +1,10 @@
+﻿Insurance Claim Form
+Claim Number: CLM-2026-1006
+Policy Number: POL-559012
+Patient Name: Rahul Deshmukh
+Insured: Rahul Deshmukh
+Diagnosis: Spinal therapy after accident
+Hospital: SpineCare Hospital
+Treatment Date: 01/05/2026
+Claim Amount: INR 85,000.00
+Documents Attached: Accident report, MRI scans, pharmacy bills

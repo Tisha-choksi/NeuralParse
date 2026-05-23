@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 774410003355
+Account Holder: TechHub Solutions
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 12,00,000.00
+Credit: INR 5,50,000.00
+Debit: INR 4,30,000.00
+Closing Balance: INR 13,20,000.00
+Transactions: Client payments, vendor payouts, AWS bills

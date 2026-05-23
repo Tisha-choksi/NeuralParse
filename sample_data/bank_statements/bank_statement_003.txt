@@ -1,0 +1,9 @@
+﻿Bank Statement
+Account Number: 558820001233
+Account Holder: Urban Mart Pvt Ltd
+Statement Period: 01/05/2026 to 31/05/2026
+Opening Balance: INR 3,25,000.00
+Credit: INR 1,80,000.00
+Debit: INR 1,10,000.00
+Closing Balance: INR 3,95,000.00
+Transactions: Supplier payments, sales deposits, rent
